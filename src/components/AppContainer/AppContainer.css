@@ -1,0 +1,12 @@
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+.button {
+    color: #ff7553;
+    background: #353435;
+    border: 0;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+}
